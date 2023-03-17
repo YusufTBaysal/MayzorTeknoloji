@@ -1,0 +1,27 @@
+{
+  "users": [
+
+    {
+      "id": 1,
+      "name": "Lale Soylu",
+      "email": "lalesoylu@gail.com",
+      "phone": "05555555555",
+      "situation": "Aktif"
+    },
+    {
+      "id": 2,
+      "name": "Haydar Candan",
+      "email": "haydar_345@gmail.com",
+      "phone": "05555555555",
+      "situation": "Yasaklandı"
+    },
+
+    {
+      "id": 3,
+      "name": "Akın Peyda",
+      "email": "akınpeydau@gmail.com",
+      "phone": "05555555555",
+      "situation": "Aktif"
+    }
+  ]
+}

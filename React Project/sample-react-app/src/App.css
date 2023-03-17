@@ -1,0 +1,12 @@
+#personel{
+    width: 100%;
+    font: bold 1.25em "Trebuchet MS", Verdana, Arial, Helvetica,
+    sans-serif;
+    border: 20px solid #505050;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 6px 6px 6px 12px;
+    background: #C1DAD7;
+    border-collapse: collapse;
+    }
